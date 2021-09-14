@@ -2,6 +2,9 @@
 This Blog Backend is built using NodeJS, ExpressJS, MongoDB, Mongoose and Cloudinary.
 In this Backend we provide all the CRUD operations needed for a blog.
 
+[Heroku Link](https://blog-backend-1.herokuapp.com/blogs)
+
+
 ## Features
 * Get all blogs
 * Get a blog by ID
