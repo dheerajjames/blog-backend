@@ -5,7 +5,7 @@ const Blog = require("../models/blogSchema");
 const { errorHandler } = require("../controllers/responses/errorResponse");
 const {getImageURI}=require("../middleware/upload");
 const {uploader}=require("../config/cloudinary");
-
+//config;
 dotenv.config({path:"./config.env"});
 
 const getAllBlogs = async (req,res,next)=>{
